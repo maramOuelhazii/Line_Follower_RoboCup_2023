@@ -34,4 +34,4 @@ Triggers specific robot behaviors depending on marker position (e.g., turns, sto
 
 
 *You can consult the detailed cahier des charges [here](RCJRescueLine2023Rules.pdf).*
-*and the Engineering Journal [here](Engineering_Journal_line_follower.pdf).*
+*and the Engineering Journal [here](Engineering_Journal_rescue_line.pdf).*
